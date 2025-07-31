@@ -1,0 +1,14 @@
+[
+  {
+    "author": "Lara Díaz",
+    "rating": 5,
+    "text": "En 2020 , el equipo de Trompo me ayudó a dar un gran cambio en mi propuesta de negocio. Pasé de enseñanza de Inglés 100% presencial a enseñanza de más de 10 idiomas de forma online. Su sistema de e-learning cambió todos mis paradigmas y el acompañamiento de su equipo durante todo este tiempo han sido cruciales. Tengo solo palabras de agradecimiento y admiración para uds. Gracias Esteban y Mariela.",
+    "image": "./assets/testimonialImg/lara-diaz.png"
+  },
+  {
+    "author": "Claudio Rosales",
+    "rating": 5,
+    "text": "Trompo desarrolló para mi empresa la gestión de e-commerce completa. Muy satisfechos con el trabajo realizado. Nos quedamos muy conformes.",
+    "image": "./assets/testimonialImg/claudio-rosales.png"
+  }  
+]
