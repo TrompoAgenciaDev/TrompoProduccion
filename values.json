@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "title": "Know-how comprobado",
+    "content": "Más de 15 años desarrollando proyectos digitales par amarcas líderes.",
+    "icon": "knowHow"
+  },
+  {
+    "id": 1,
+    "title": "Visión estratégica + técnica",
+    "content": "Combinamos diseño, desarrollo y marketing para que tu web funcione con sentido.",
+    "icon": "vision"
+  },
+  {
+    "id": 2,
+    "title": "Sostenibilidad y escalabilidad",
+    "content": "Creamos estructuras pensadas para crecer y adaptarse a tu negocio.",
+    "icon": "sostenibilidad"
+  },
+  {
+    "id": 3,
+    "title": "Equipo multidisciplinario a disposición",
+    "content": "Diseñadores, programadores y expertos en UX/SEO trabajando en conjunto.",
+    "icon": "equipo"
+  },
+  {
+    "id": 4,
+    "title": "Acompañamiento real, no solo entrega",
+    "content": "Te guiamos durante todo el proyecto y estamos después del lanzamiento.",
+    "icon": "acompañamiento"
+  }
+
+]
