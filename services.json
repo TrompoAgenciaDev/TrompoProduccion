@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "title": "identidad",
+        "subtitle": "que conecta",
+        "content": "Branding, diseño y multimedia para marcas con propósito.",
+        "service": "/branding"
+    },
+    {
+        "id": 1,
+        "title": "desarrollo web",
+        "subtitle": "que evoluciona",
+        "content": "Sitios que no se detienen, se adaptan y crecen",
+        "service": "/desarrollo-web"
+    },
+    {
+        "id": 2,
+        "title": "ads",
+        "subtitle": "inteligentes",
+        "content": "Publicidad con dirección, optimización y resultados.",
+        "service": "/ads"
+    },
+    {
+        "id": 3,
+        "title": "redes sociales",
+        "subtitle": "que transforman",
+        "content": "Estrategias que conectan. Contenidos que provocan respuesta.",
+        "service": "/social-media"
+    },
+    {
+        "id": 4,
+        "title": "soporte",
+        "subtitle": "continuo",
+        "content": "Soporte técnico y creativo para que tu marca no se detenga.",
+        "service": "/support"
+    }
+]
