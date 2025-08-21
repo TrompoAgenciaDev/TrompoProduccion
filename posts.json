@@ -7,11 +7,12 @@
     "featured_image": "/assets/postImg/porque-una-web-no-es-solo-diseno.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["branding"],
+    "category": ["branding"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "el-rebranding-de-airbnb-como-una-identidad-visual-puede-transformar-una-marca"
   },
   {
@@ -22,11 +23,12 @@
     "featured_image": "/assets/postImg/ban-2.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["branding"],
+    "category": ["branding"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "netflix-y-su-identidad-visual-coherente"
   },
   {
@@ -37,11 +39,12 @@
     "featured_image": "/assets/postImg/porque-una-web-no-es-solo-diseno.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["Desarrollo Web"],
+    "category": ["Desarrollo Web"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "asegura-la-mejor-experiencia-de-navegacion-a-tus-usuarios"
   },
   {
@@ -52,11 +55,12 @@
     "featured_image": "/assets/postImg/ban-2.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["Desarrollo"],
+    "category": ["Desarrollo"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "asegura-la-mejor-experiencia-de-navegacion-a-tus-usuarios"
   },
   {
@@ -67,11 +71,12 @@
     "featured_image": "/assets/postImg/porque-una-web-no-es-solo-diseno.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["novedades", "Newsletter", "Download", "Desarrollo Web"],
+    "category": ["novedades", "Newsletter", "Download", "Desarrollo Web"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "nativos-100-digitales-la-generacion-z"
   },
   {
@@ -82,11 +87,12 @@
     "featured_image": "/assets/postImg/ban-2.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["novedades"],
+    "category": ["novedades"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "la-insoportable-levedad-del-naming"
   },
   {
@@ -97,11 +103,12 @@
     "featured_image": "/assets/postImg/porque-una-web-no-es-solo-diseno.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["Desarrollo Web"],
+    "category": ["Desarrollo Web"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "asegura-la-mejor-experiencia-de-navegacion-a-tus-usuarios"
   },
   {
@@ -112,11 +119,12 @@
     "featured_image": "/assets/postImg/ban-2.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["novedades", "Newsletter", "Download"],
+    "category": ["novedades", "Newsletter", "Download"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "nativos-100-digitales-la-generacion-z"
   },
   {
@@ -127,11 +135,12 @@
     "featured_image": "/assets/postImg/porque-una-web-no-es-solo-diseno.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["novedades"],
+    "category": ["novedades"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "la-insoportable-levedad-del-naming"
   },
   {
@@ -142,11 +151,12 @@
     "featured_image": "/assets/postImg/ban-2",
     "featured_video": "",
     "gallery": [],
-    "categories": ["Desarrollo Web"],
+    "category": ["Desarrollo Web"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "asegura-la-mejor-experiencia-de-navegacion-a-tus-usuarios"
   },
   {
@@ -157,11 +167,12 @@
     "featured_image": "/assets/postImg/porque-una-web-no-es-solo-diseno.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["novedades", "Newsletter", "Download"],
+    "category": ["novedades", "Newsletter", "Download"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "nativos-100-digitales-la-generacion-z"
   },
   {
@@ -172,11 +183,12 @@
     "featured_image": "/assets/postImg/post.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["novedades"],
+    "category": ["novedades"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "la-insoportable-levedad-del-naming"
   },
   {
@@ -187,11 +199,12 @@
     "featured_image": "/assets/postImg/post.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["Desarrollo Web"],
+    "category": ["Desarrollo Web"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "asegura-la-mejor-experiencia-de-navegacion-a-tus-usuarios"
   },
   {
@@ -202,11 +215,12 @@
     "featured_image": "/assets/postImg/post.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["novedades", "Newsletter", "Download"],
+    "category": ["novedades", "Newsletter", "Download"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "nativos-100-digitales-la-generacion-z"
   },
   {
@@ -217,11 +231,12 @@
     "featured_image": "/assets/postImg/post.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["novedades"],
+    "category": ["novedades"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "la-insoportable-levedad-del-naming"
   },
   {
@@ -232,11 +247,12 @@
     "featured_image": "/assets/postImg/post.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["Desarrollo Web"],
+    "category": ["Desarrollo Web"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "asegura-la-mejor-experiencia-de-navegacion-a-tus-usuarios"
   },
   {
@@ -247,11 +263,12 @@
     "featured_image": "/assets/postImg/post.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["novedades", "Newsletter", "Download"],
+    "category": ["novedades", "Newsletter", "Download"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "nativos-100-digitales-la-generacion-z"
   },
   {
@@ -262,11 +279,12 @@
     "featured_image": "/assets/postImg/post.png",
     "featured_video": "",
     "gallery": [],
-    "categories": ["novedades"],
+    "category": ["novedades"],
     "tags": [],
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "date": "2023-10-01",
     "slug": "la-insoportable-levedad-del-naming"
   }
 ]
