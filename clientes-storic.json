@@ -1,0 +1,101 @@
+{
+  "Hotelería y Turismo": [
+    { "id": 0, "cliente": "Argentina Late con Vos" },
+    { "id": 1, "cliente": "Córdoba Turismo" },
+    { "id": 2, "cliente": "Lozada Viajes" },
+    { "id": 3, "cliente": "Buquebus" },
+    { "id": 4, "cliente": "Ansenuza Hotel, Casino & Spa" },
+    { "id": 5, "cliente": "Peñon del Aguila Parque" },
+    { "id": 6, "cliente": "Parque de la Aventura" },
+    { "id": 7, "cliente": "Forma Travel" },
+    { "id": 8, "cliente": "Neosan Viajes" }
+  ],
+  "Calzado e Indumentaria": [
+    { "id": 0, "cliente": "Guanaco" },
+    { "id": 1, "cliente": "Af Jeans" },
+    { "id": 2, "cliente": "R301" },
+    { "id": 3, "cliente": "Bando Jeans" },
+    { "id": 4, "cliente": "Agostino Cueros" },
+    { "id": 5, "cliente": "Batistella" },
+    { "id": 6, "cliente": "DiccaIcsa" },
+    { "id": 7, "cliente": "Karmia" },
+    { "id": 8, "cliente": "Tienda Vesta" },
+    { "id": 9, "cliente": "Abstracta" }
+  ],
+  "Construcción": [
+    { "id": 0, "cliente": "Mosaicos Blangino" },
+    { "id": 1, "cliente": "Ferrocons" },
+    { "id": 2, "cliente": "Agreteq" },
+    { "id": 3, "cliente": "Conte Mas" },
+    { "id": 4, "cliente": "SQL Amoblamientos" },
+    { "id": 5, "cliente": "Vivienda Canadienses" },
+    { "id": 6, "cliente": "Gauros Viviendas" },
+    { "id": 7, "cliente": "Cerroplast" },
+    { "id": 8, "cliente": "Electro Alem" }
+  ],
+  "Salud y Belleza": [
+    { "id": 0, "cliente": "Daylo Plas" },
+    { "id": 1, "cliente": "Mayoristas de Opticas" },
+    { "id": 2, "cliente": "Korper" },
+    { "id": 3, "cliente": "Red Big Farma" },
+    { "id": 4, "cliente": "CEDIR" },
+    { "id": 5, "cliente": "Esencias del Boticario" },
+    { "id": 6, "cliente": "Zono" }
+  ],
+  "Industria Automotriz": [
+    { "id": 0, "cliente": "Volvo Trucks & Buses Argentina" },
+    { "id": 1, "cliente": "Denso" },
+    { "id": 2, "cliente": "Turin Fiat" },
+    { "id": 3, "cliente": "Chexa Chevrolet" },
+    { "id": 4, "cliente": "Hiperplatinum Kia" },
+    { "id": 5, "cliente": "Hiperauto Hyundai" },
+    { "id": 6, "cliente": "Tu Auto Usados" },
+    { "id": 7, "cliente": "Nation Peugeot" },
+    { "id": 8, "cliente": "Nation Citroen" },
+    { "id": 9, "cliente": "Renault Mediterraneo" },
+    { "id": 10, "cliente": "Tablada Motors" },
+    { "id": 11, "cliente": "Renault Trucks" },
+    { "id": 12, "cliente": "SOS 24" }
+  ],
+  "Alimentos y Bebidas": [
+    { "id": 0, "cliente": "Gaseosa Secco" },
+    { "id": 1, "cliente": "Ardu Cafe" },
+    { "id": 2, "cliente": "Molino Cañuelas" },
+    { "id": 3, "cliente": "Mermeladas Raulito" },
+    { "id": 4, "cliente": "Super Mami" },
+    { "id": 5, "cliente": "La Tradición" },
+    { "id": 6, "cliente": "Productos Plin" }
+  ],
+  "Servicios Financieros y Seguros": [
+    { "id": 0, "cliente": "Mercantil Andina" },
+    { "id": 1, "cliente": "Western Union" },
+    { "id": 2, "cliente": "CAMI Salud" },
+    { "id": 3, "cliente": "Femesa Salud" },
+    { "id": 4, "cliente": "Montequin" },
+    { "id": 5, "cliente": "Cash Cap" },
+    { "id": 6, "cliente": "Finandino" }
+  ],
+  "Educación": [
+    { "id": 0, "cliente": "CEICOS" },
+    { "id": 1, "cliente": "instituto Saber" },
+    { "id": 2, "cliente": "ETA" },
+    { "id": 3, "cliente": "Kindom Idiomas" },
+    { "id": 4, "cliente": "Higland School" },
+    { "id": 5, "cliente": "Academia del Este" }
+  ],
+  "Campo": [
+    { "id": 0, "cliente": "Super Walter" },
+    { "id": 1, "cliente": "Richiger" },
+    { "id": 2, "cliente": "Royjo" }
+  ],
+  "Tecnología ": [
+    { "id": 0, "cliente": "Starlight" },
+    { "id": 1, "cliente": "Viditec" },
+    { "id": 2, "cliente": "Ranko" }
+  ],
+  "Agencias": [
+    { "id": 0, "cliente": "Menta" },
+    { "id": 1, "cliente": "Horse" },
+    { "id": 2, "cliente": "VOX" }
+  ]
+}

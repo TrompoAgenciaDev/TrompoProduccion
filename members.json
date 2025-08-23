@@ -4,7 +4,7 @@
     "name": "Esteban Raparo",
     "position": "Digital Manager",
     "portfolio": "Estudió Publicidad, Marketing, posee un posgrado de marketing estratégico en la universidad de Belgrano. Tiene una especialización de marketing digital en compra programática de medios en la universidad del Salvador formo parte del primer programa de Google Partners en 2011 y experiencia en mas de 100 proyectos digitales, en pequeñas, medianas y grandes empresa, nacionales, multinacionales y gobiernos.",
-    "featured_image": "/assets/members/web.png"
+    "featured_image": "/assets/members/esteban.png"
   },
   {
     "id": 1,
@@ -18,20 +18,20 @@
     "name": "Joel Pallero",
     "position": "Front End Developer",
     "portfolio": "Técnico Superior en Desarrollo de Software, dedicado a la rama de desarrollo web. Especializado en desarrollo web WordPress y programación en frameworks modernos como React.js + Motion. Joel ha liderado más de 50 proyectos web, combinando creatividad, experiencia en UX/UI y desarrollo ágil. Su dominio de herramientas como Figma, GitHub y Visual Studio Code, junto con su capacidad para implementar soluciones tecnológicas escalables, lo posicionan como un referente en la creación de experiencias digitales de alto impacto.",
-    "featured_image": "/assets/members/web.png"
+    "featured_image": "/assets/members/joel.png"
   },
   {
     "id": 3,
-    "name": "Alejo Pellegrino",
-    "position": "Multimedia",
-    "portfolio": "Licenciado en Cine y Artes Audiovisuales por la Universidad Nacional de Córdoba. Es editor y realizador audiovisual con experiencia en la postproducción de cortometrajes, videoclips, eventos en vivo, shows musicales y contenido para redes sociales. Se especializa en montaje, diseño sonoro y motion graphics.",
-    "featured_image": "/assets/members/web.png"
-  },
-  {
-    "id": 4,
     "name": "Melisa Chanampa",
     "position": "Diseñadora Gráfica",
     "portfolio": "Licenciada en Diseño Gráfico por la Universidad Blas Pascal. Cuenta con más de cinco años de experiencia en agencias de publicidad y como profesional freelance, desarrollándose en áreas como branding, diseño editorial y digital, redes sociales, diseño web, campañas de marketing, edición fotográfica y preparación de originales para impresión.",
-    "featured_image": "/assets/members/web.png"
+    "featured_image": "/assets/members/meli.png"
+  },
+  {
+    "id": 4,
+    "name": "Alejo Pellegrino",
+    "position": "Multimedia",
+    "portfolio": "Licenciado en Cine y Artes Audiovisuales por la Universidad Nacional de Córdoba. Es editor y realizador audiovisual con experiencia en la postproducción de cortometrajes, videoclips, eventos en vivo, shows musicales y contenido para redes sociales. Se especializa en montaje, diseño sonoro y motion graphics.",
+    "featured_image": "/assets/members/alejo.png"
   }
 ]

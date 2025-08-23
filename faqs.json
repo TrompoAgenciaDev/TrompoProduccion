@@ -1,27 +1,299 @@
-[
-    {
+{
+    "home": [
+        {
+            "id": 0,
+            "question": "¿En cuánto tiempo responden y cómo arranca el proyecto?",
+            "content": "<b>Antes de 24 hs hábiles te contactamos con un brief inicial.</b><br><br>En <strong>Infraestructura</strong> (WP Continuo, Soporte Avanzado, Producción Visual) solemos arrancar en 3-5 días con tu auditoría técnica y planificación.<br><br>En <strong>Desarrollo</strong> (One Page, Institucional, Ecommerce, E-learning) definimos alcance y prototipo en la primera semana y partimos al diseño/desarrollo en la segunda."
+        },
+        {
+            "id": 1,
+            "question": "¿Cómo eligen el plan o servicio adecuado para mi empresa?",
+            "content": "Lo conversamos en la llamada inicial. Te presentamos:<ul><li><strong>Infraestructura</strong> si necesitás performance, hosting gestionado, actualizaciones y soporte continuo.</li><li><strong>Producción Visual</strong> si tu foco es multimedia, videos o assets para campañas.</li><li><strong>Soporte Web Avanzado</strong> para cambios urgentes, integraciones y auditorías.</li><li><strong>One Page / Institucional</strong> para una presencia web ágil y clara.</li><li><strong>Ecommerce / E-learning</strong> si buscás transaccionalidad o formación online.<br>Así elegimos juntos el camino más eficiente.</li></ul>"
+        },
+        {
+            "id": 2,
+            "question": "¿Qué tecnologías usan y qué nivel de personalización ofrecen?",
+            "content": "<ul>\n  <li><strong>Infraestructura</strong> WordPress en AWS/GCP con Docker, certificados SSL, CDN y optimización Core Web Vitals.</li>\n  <li><strong>Producción Visual</strong> Premiere, After Effects, Cinema 4D y edición en HD/4K.</li>\n  <li><strong>Soporte Web Avanzado</strong> React, Next.js, Shopify, Moodle o LMS a medida.</li>\n</ul>\n\nLa personalización va desde ajustes mínimos en plantillas hasta desarrollos 100% a medida con APIs e integraciones."
+        },
+        {
+            "id": 3,
+            "question": "¿Cómo garantizan la calidad y el soporte post-lanzamiento?",
+            "content": "<ul>\n  <li><strong>QA interno:</strong> Testing funcional, de usabilidad y performance antes de cada release.</li>\n  <li><strong>Soporte:</strong> 30 días gratis en todos los proyectos de desarrollo; luego puedes migrar a Soporte Web Avanzado o WP Continuo.</li>\n  <li><strong>SLA</strong> respuesta en 4 hs hábiles para incidencias críticas, 24 hs para cambios estándar.</li>\n</ul>"
+        },
+        {
+            "id": 4,
+            "question": "¿Puedo escalar o sumar servicios a futuro?",
+            "content": "Sí, nuestra estructura modular te permite pasar de un One Page a un Ecommerce, o sumar Producción Visual y Soporte a tu WP Continuo. Cada nuevo servicio se integra con tu setup previo: mismo equipo, misma metodología, sin curva de aprendizaje."
+        }
+    ],
+    "branding": [
+        {
         "id": 0,
-        "question": "¿En cuánto tiempo responden y cómo arranca el proyecto?",
-        "content": "<b>Antes de 24 hs hábiles te contactamos con un brief inicial.</b><br><br>En <strong>Infraestructura</strong> (WP Continuo, Soporte Avanzado, Producción Visual) solemos arrancar en 3-5 días con tu auditoría técnica y planificación.<br><br>En <strong>Desarrollo</strong> (One Page, Institucional, Ecommerce, E-learning) definimos alcance y prototipo en la primera semana y partimos al diseño/desarrollo en la segunda."
-    },
-    {
+        "question": "¿Qué incluye un servicio de branding?",
+        "content": "Incluye la creación de la identidad visual (logo, tipografías, colores), el tono de comunicación y la estrategia que define cómo tu marca se presenta y conecta con el público."
+        },
+        {
         "id": 1,
-        "question": "¿Cómo eligen el plan o servicio adecuado para mi empresa?",
-        "content": "Lo conversamos en la llamada inicial. Te presentamos:<ul><li><strong>Infraestructura</strong> si necesitás performance, hosting gestionado, actualizaciones y soporte continuo.</li><li><strong>Producción Visual</strong> si tu foco es multimedia, videos o assets para campañas.</li><li><strong>Soporte Web Avanzado</strong> para cambios urgentes, integraciones y auditorías.</li><li><strong>One Page / Institucional</strong> para una presencia web ágil y clara.</li><li><strong>Ecommerce / E-learning</strong> si buscás transaccionalidad o formación online.<br>Así elegimos juntos el camino más eficiente.</li></ul>"
-    },
-    {
+        "question": "¿Por qué es importante invertir en branding?",
+        "content": "Porque una marca sólida genera confianza, recordación y diferencia frente a la competencia."
+        },
+        {
         "id": 2,
-        "question": "¿Qué tecnologías usan y qué nivel de personalización ofrecen?",
-        "content": "<ul>\n  <li><strong>Infraestructura</strong> WordPress en AWS/GCP con Docker, certificados SSL, CDN y optimización Core Web Vitals.</li>\n  <li><strong>Producción Visual</strong> Premiere, After Effects, Cinema 4D y edición en HD/4K.</li>\n  <li><strong>Soporte Web Avanzado</strong> React, Next.js, Shopify, Moodle o LMS a medida.</li>\n</ul>\n\nLa personalización va desde ajustes mínimos en plantillas hasta desarrollos 100% a medida con APIs e integraciones."
-    },
-    {
+        "question": "¿Se puede renovar una marca sin perder su esencia?",
+        "content": "Sí, el rebranding permite modernizar la identidad respetando los valores originales."
+        },
+        {
         "id": 3,
-        "question": "¿Cómo garantizan la calidad y el soporte post-lanzamiento?",
-        "content": "<ul>\n  <li><strong>QA interno:</strong> Testing funcional, de usabilidad y performance antes de cada release.</li>\n  <li><strong>Soporte:</strong> 30 días gratis en todos los proyectos de desarrollo; luego puedes migrar a Soporte Web Avanzado o WP Continuo.</li>\n  <li><strong>SLA</strong> respuesta en 4 hs hábiles para incidencias críticas, 24 hs para cambios estándar.</li>\n</ul>"
-    },
-    {
+        "question": "¿Qué diferencia hay entre branding y diseño gráfico?",
+        "content": "El diseño gráfico es una parte del branding, pero el branding también incluye estrategia, personalidad y comunicación."
+        },
+        {
         "id": 4,
-        "question": "¿Puedo escalar o sumar servicios a futuro?",
-        "content": "Sí, nuestra estructura modular te permite pasar de un One Page a un Ecommerce, o sumar Producción Visual y Soporte a tu WP Continuo. Cada nuevo servicio se integra con tu setup previo: mismo equipo, misma metodología, sin curva de aprendizaje."
-    }
-]
+        "question": "¿En cuánto tiempo se puede desarrollar un branding completo?",
+        "content": "Depende del alcance, pero suele llevar entre 4 y 8 semanas para lograr un trabajo integral."
+        }
+    ],
+    "desarrollo": [
+        {
+        "id": 0,
+        "question": "¿Qué diferencia hay entre una web institucional, catálogo, e-commerce o landing?",
+        "content": "Cada tipo de web responde a un objetivo distinto: la institucional muestra quién sos, el catálogo presenta productos, el e-commerce vende online y la landing convierte visitas en acciones específicas."
+        },
+        {
+        "id": 1,
+        "question": "¿Qué beneficios tiene tener una web profesional?",
+        "content": "Mejora tu presencia digital, genera confianza y te ayuda a captar más clientes."
+        },
+        {
+        "id": 2,
+        "question": "¿Se puede actualizar la web una vez publicada?",
+        "content": "Sí, se pueden hacer cambios en diseño, contenidos y funcionalidades en cualquier momento."
+        },
+        {
+        "id": 3,
+        "question": "¿Qué significa que una web sea responsive?",
+        "content": "Que se adapta a todos los dispositivos (celulares, tablets y computadoras)."
+        },
+        {
+        "id": 4,
+        "question": "¿Es necesario tener dominio y hosting propio?",
+        "content": "Sí, son la base para que tu web esté online y funcione correctamente."
+        }
+    ],
+    "landing": [
+        {
+        "id": 0,
+        "question": "¿Qué es una landing page?",
+        "content": "Es una página diseñada para un objetivo específico, como captar leads o vender un producto puntual."
+        },
+        {
+        "id": 1,
+        "question": "¿Para qué campañas conviene usar una landing?",
+        "content": "Para promociones, lanzamientos o campañas de anuncios que buscan conversiones rápidas."
+        },
+        {
+        "id": 2,
+        "question": "¿Cuánto tiempo lleva desarrollar una landing?",
+        "content": "Generalmente entre 1 y 2 semanas, según la complejidad."
+        },
+        {
+        "id": 3,
+        "question": "¿Se puede medir el rendimiento de la landing?",
+        "content": "Sí, se integra con herramientas como Google Analytics y Meta Pixel para trackear resultados."
+        },
+        {
+        "id": 4,
+        "question": "¿Una landing puede estar dentro de mi web principal?",
+        "content": "Sí, puede estar integrada o en un dominio independiente."
+        }
+    ],
+    "catalogo": [
+        {
+        "id": 0,
+        "question": "¿Qué es una web catálogo?",
+        "content": "Es una página donde se muestran productos o servicios sin venta directa online."
+        },
+        {
+        "id": 1,
+        "question": "¿En qué se diferencia del e-commerce?",
+        "content": "En el catálogo solo se muestran productos, mientras que el e-commerce permite comprarlos directamente."
+        },
+        {
+        "id": 2,
+        "question": "¿Cuándo conviene tener una web catálogo?",
+        "content": "Cuando tu empresa quiere mostrar variedad de productos, pero las ventas se cierran por otros canales."
+        },
+        {
+        "id": 3,
+        "question": "¿Se pueden actualizar los productos del catálogo?",
+        "content": "Sí, podés cargar y modificar productos fácilmente."
+        },
+        {
+        "id": 4,
+        "question": "¿Es posible integrar un catálogo con redes sociales?",
+        "content": "Sí, se pueden vincular con Instagram Shopping o Facebook Catalog."
+        }
+    ],
+    "ecommerce": [
+        {
+        "id": 0,
+        "question": "¿Qué diferencia hay entre un e-commerce propio y vender en un marketplace?",
+        "content": "El e-commerce propio te da control total sobre tu marca, base de clientes y margen de ganancia."
+        },
+        {
+        "id": 1,
+        "question": "¿Qué métodos de pago se pueden integrar?",
+        "content": "Se pueden sumar tarjetas de crédito, débito, transferencias y billeteras virtuales."
+        },
+        {
+        "id": 2,
+        "question": "¿Se puede gestionar el stock desde la web?",
+        "content": "Sí, el sistema actualiza inventario automáticamente."
+        },
+        {
+        "id": 3,
+        "question": "¿Es seguro un e-commerce?",
+        "content": "Sí, se implementan certificados SSL y métodos de pago seguros."
+        },
+        {
+        "id": 4,
+        "question": "¿Se puede vender en todo el país con un e-commerce?",
+        "content": "Sí, integrando envíos con plataformas logísticas."
+        }
+    ],
+    "elearning": [
+        {
+        "id": 0,
+        "question": "¿Qué es una plataforma e-learning?",
+        "content": "Es un sitio web donde se dictan cursos online con contenidos organizados."
+        },
+        {
+        "id": 1,
+        "question": "¿Qué funcionalidades incluye una web e-learning?",
+        "content": "Registro de alumnos, carga de clases, foros, evaluaciones y certificaciones."
+        },
+        {
+        "id": 2,
+        "question": "¿Se pueden ofrecer cursos gratuitos y pagos?",
+        "content": "Sí, se puede configurar según la estrategia de tu institución."
+        },
+        {
+        "id": 3,
+        "question": "¿Se puede acceder desde celular?",
+        "content": "Sí, son plataformas responsive y accesibles desde cualquier dispositivo."
+        },
+        {
+        "id": 4,
+        "question": "¿Es posible integrar pasarelas de pago?",
+        "content": "Sí, se pueden cobrar cursos online con distintas formas de pago."
+        }
+    ],
+    "institucional": [
+        {
+        "id": 0,
+        "question": "¿Qué es una web institucional?",
+        "content": "Es la página oficial de una empresa, organización o profesional."
+        },
+        {
+        "id": 1,
+        "question": "¿Qué debe incluir una web institucional?",
+        "content": "Información sobre la empresa, servicios, historia, valores y formas de contacto."
+        },
+        {
+        "id": 2,
+        "question": "¿Por qué es importante una web institucional?",
+        "content": "Genera confianza y es la carta de presentación digital de tu marca."
+        },
+        {
+        "id": 3,
+        "question": "¿Se puede agregar un blog a la web institucional?",
+        "content": "Sí, para compartir novedades y mejorar el SEO."
+        },
+        {
+        "id": 4,
+        "question": "¿Cuánto tiempo lleva desarrollar una web institucional?",
+        "content": "Generalmente entre 4 y 6 semanas."
+        }
+    ],
+    "social": [
+        {
+        "id": 0,
+        "question": "¿Por qué es importante tener una estrategia en redes sociales?",
+        "content": "Porque ayuda a generar comunidad, posicionar tu marca y captar clientes."
+        },
+        {
+        "id": 1,
+        "question": "¿Qué diferencia hay entre manejo de redes y publicar por cuenta propia?",
+        "content": "Una estrategia profesional define objetivos, segmentación y contenidos pensados para resultados."
+        },
+        {
+        "id": 2,
+        "question": "¿Se pueden medir los resultados en redes?",
+        "content": "Sí, con métricas como alcance, interacciones y conversiones."
+        },
+        {
+        "id": 3,
+        "question": "¿Qué redes sociales convienen para mi negocio?",
+        "content": "Depende del público objetivo: Instagram, Facebook, LinkedIn, TikTok u otras."
+        },
+        {
+        "id": 4,
+        "question": "¿Qué tipo de contenidos se pueden generar?",
+        "content": "Posts, reels, historias, campañas interactivas, concursos y más."
+        }
+    ],
+    "metaads": [
+        {
+        "id": 0,
+        "question": "¿Qué son los Meta Ads?",
+        "content": "Son anuncios pagos en Facebook e Instagram."
+        },
+        {
+        "id": 1,
+        "question": "¿Por qué invertir en Meta Ads?",
+        "content": "Porque permiten llegar a audiencias específicas y obtener resultados medibles."
+        },
+        {
+        "id": 2,
+        "question": "¿Con qué presupuesto se puede empezar?",
+        "content": "Se puede comenzar con inversiones bajas y escalar según los resultados."
+        },
+        {
+        "id": 3,
+        "question": "¿Cómo se mide el éxito de una campaña en Meta Ads?",
+        "content": "Con métricas como clics, conversiones, alcance y retorno de inversión (ROI)."
+        },
+        {
+        "id": 4,
+        "question": "¿Se pueden segmentar los anuncios?",
+        "content": "Sí, por ubicación, intereses, comportamientos, edades, etc."
+        }
+    ],
+    "googleads": [
+        {
+        "id": 0,
+        "question": "¿Qué es Google Ads?",
+        "content": "Es la plataforma publicitaria de Google para aparecer en búsquedas y sitios asociados."
+        },
+        {
+        "id": 1,
+        "question": "¿Cuál es la diferencia entre Google Ads y Meta Ads?",
+        "content": "Google Ads capta la demanda activa (usuarios que buscan), mientras que Meta Ads genera demanda a través de audiencias."
+        },
+        {
+        "id": 2,
+        "question": "¿Cuáles son los tipos de campañas en Google Ads?",
+        "content": "De búsqueda, display, shopping, video (YouTube) y campañas locales."
+        },
+        {
+        "id": 3,
+        "question": "¿Cómo se mide el rendimiento en Google Ads?",
+        "content": "Con métricas como clics, conversiones, CTR y costo por adquisición (CPA)."
+        },
+        {
+        "id": 4,
+        "question": "¿Necesito una web para usar Google Ads?",
+        "content": "Sí, porque los anuncios redirigen a un sitio web o landing page."
+        }
+    ]
+}
