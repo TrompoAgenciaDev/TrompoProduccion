@@ -3,7 +3,7 @@
     "author": "Guadalupe Caceres Marketing Volvo Trucks & Buses Argentina",
     "rating": 5,
     "text": "Trabajar con Trompo es una experiencia súper positiva. Son un equipo creativo, flexible y con mucha visión. Nos ayudan a dar forma a campañas digitales más impactantes, a mejorar nuestra presencia en redes y a generar contenidos que realmente conectan con nuestra audiencia. Siempre proponen ideas frescas y se adaptan rápido a los cambios, algo que valoramos muchísimo en el día a día.",
-    "image": "./assets/testimonialImg/guada.png"
+    "image": "./assets/testimonialImg/guada-volvo.png"
   },
   {
     "author": "Florencia Bustos UX Lead | UX-PM | UI | Graphic Designer",
@@ -12,15 +12,33 @@
     "image": "./assets/testimonialImg/flor.png"
   },
   {
-    "author": "Guadalupe Caceres Marketing Volvo Trucks & Buses Argentina",
-    "rating": 4,
-    "text": "Trabajar con Trompo es una experiencia súper positiva. Son un equipo creativo, flexible y con mucha visión. Nos ayudan a dar forma a campañas digitales más impactantes, a mejorar nuestra presencia en redes y a generar contenidos que realmente conectan con nuestra audiencia. Siempre proponen ideas frescas y se adaptan rápido a los cambios, algo que valoramos muchísimo en el día a día.",
-    "image": "./assets/testimonialImg/guada.png"
+    "author": "Norma Antoniuk -  Directora de Kindom idiomas",
+    "rating": 5,
+    "text": "Nuestra experiencia trabajando con Trompo fue excelente de principio a fin. Con ellos pudimos reinventarnos  en plena pandemia y expandir nuestra empresa más allá de los límites geográficos. Trabajamos nuestra marca y construimos nuestra plataforma educativa la cual es una de nuestras herramientas fundamentales de acompañamiento. El gran equipo humano de Trompo nos ayudó a dar un gran salto en medio de la incertidumbre. Recomendación 1000/1000",
+    "image": "./assets/testimonialImg/norma-kindom.png"
   },
   {
-    "author": "Florencia Bustos UX Lead | UX-PM | UI | Graphic Designer",
-    "rating": 1,
-    "text": "Estando en Mercantil Andina trabajamos junto a Trompo en el gran proyecto del rediseño web de la empresa. Respetaron lineamientos cuidando los tiempos y logrando una muy buena ejecución del prototipo presentado en Figma. Conectaron la API de cotizaciones y desarrollaron un plugin propio en WordPress para gestionar esa funcionalidad. Los recomiendo por su compromiso, conocimiento y profesionalismo.",
-    "image": "./assets/testimonialImg/flor.png"
+    "author": "Agostina Paskvan, Ranko Cannon Argentina, Gerente de E-Commerce.",
+    "rating": 5,
+    "text": "Los chicos son super proactivos! Tenemos un grupo por donde les hacemos los requerimientos e inquietudes y tenemos respuesta inmediata! Todo lo que se pueda resolver en el momento y necesite urgencia le dan prioridad y lo se resuelve con mucha celeridad. Todas las propuestas que hacemos son siempre analizadas y los chicos tratan de encontrarle la vuelta para poder cumplir! Gracias!!",
+    "image": "./assets/testimonialImg/agos-ranko.png"
+  },
+  {
+    "author": "Veronica Pallavicini - Menta",
+    "rating": 5,
+    "text": "Trabajar con Trompo en el diseño y desarrollo de nuestra web fue una experiencia de diez. Son súper creativos, siempre buscando romper esquemas y ofrecer algo distinto, con una foco total en la experiencia del usuario. La onda con ellos fue muy buena, fluida y sin complicaciones. Ya los he recomendado a varios clientes y siempre queden más que felices, superando sus expectativas. El feedback que recibo por parte de mis propios clientes es siempre muy positivo, lo que habla de la calidad y compromiso de su trabajo. Sin dudas, los recomiendo 100% para cualquier proyecto web.",
+    "image": "./assets/testimonialImg/vero-menta.png"
+  },
+  {
+    "author": "María Elisa de la Fuente Núñez - Gesevi",
+    "rating": 5,
+    "text": "En un rubro tan especializado como el nuestro, comunicar con seriedad y generar confianza es clave. Desde nuestros inicios, Trompo ha sido el aliado perfecto para lograrlo. Entendieron a la perfección nuestras necesidades, desarrollando un sitio web institucional impecable y gestionando nuestras campañas de Google Ads de forma estratégica. Gracias a ellos, conectamos eficazmente con nuestro público. Valoramos enormemente su excelente comunicación y su predisposición constante para ayudarnos a alcanzar cada objetivo.",
+    "image": "./assets/testimonialImg/eli-gesevi.png"
+  },
+  {
+    "author": "Cristian Ulloque - Socio / Director Ejecutivo - Productos Raulito",
+    "rating": 5,
+    "text": "Somos una empresa con 70 de años de trayectoria. Trompo nos acompañó en la creación de nuestra primera página web. y en la actualización de su diseño con el paso del tiempo. Nos acompañan con social media. Destacamos la predisposición y poder contar siempre con su apoyo cuando lo necesitamos",
+    "image": "./assets/testimonialImg/cris-raulito.png"
   }
 ]

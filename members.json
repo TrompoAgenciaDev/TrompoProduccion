@@ -33,5 +33,19 @@
     "position": "Multimedia",
     "portfolio": "Licenciado en Cine y Artes Audiovisuales por la Universidad Nacional de Córdoba. Es editor y realizador audiovisual con experiencia en la postproducción de cortometrajes, videoclips, eventos en vivo, shows musicales y contenido para redes sociales. Se especializa en montaje, diseño sonoro y motion graphics.",
     "featured_image": "/assets/members/alejo.png"
+  },
+  {
+    "id": 5,
+    "name": "Micaela Labrone",
+    "position": "Social media",
+    "portfolio": "Social Media Manager de la agencia. Estudió Marketing y Publicidad Digital en la Universidad Siglo 21. Tiene experiencia en agencias y gestiona las principales cuentas de Social Media de la agencia. Especialista en estrategias de contenido, análisis de buyer persona, Benchmark y dirección de arte, con foco en estrategia, estética y resultados.",
+    "featured_image": "/assets/members/alejo.png"
+  },
+  {
+    "id": 6,
+    "name": "Alfonsina Bonacossa",
+    "position": "Diseñadora Gráfica",
+    "portfolio": "Recibida de Técnica Universitaria en Diseño Gráfico en la Universidad Provincial de Córdoba. Cuenta con formación académica sólida y actualizada, su perfil combina creatividad, manejo técnico y una visión estratégica aplicada al diseño, aportando soluciones efectivas en áreas como social media, diseño web, campañas de marketing, y presentaciones digitales.",
+    "featured_image": "/assets/members/alfon.png"
   }
 ]
