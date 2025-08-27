@@ -12,6 +12,7 @@
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "url_client": "https://tienda.ranko.com.ar",
     "slug": "ranko"
   },
   {
@@ -28,6 +29,7 @@
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "url_client": "https://tusguanaco.com/",
     "slug": "guanaco"
   },
   {
@@ -44,6 +46,7 @@
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "url_client": "https://www.westernunion.com/",
     "slug": "western-union"
   },
   {
@@ -60,6 +63,7 @@
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "url_client": "https://superwalter.com.ar/",
     "slug": "super-walter"
   },
   {
@@ -76,6 +80,7 @@
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "url_client": "https://www.volvotrucks.com.ar/",
     "slug": "volvo-trucks"
   },
   {
@@ -92,6 +97,7 @@
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "url_client": "https://gesevi.com/",
     "slug": "gesevi"
   },
   {
@@ -108,6 +114,7 @@
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "url_client": "https://wearementa.com/",
     "slug": "menta"
   },
   {
@@ -124,6 +131,7 @@
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "url_client": "https://femesa-sanluis.com.ar/",
     "slug": "femesa"
   },
   {
@@ -140,6 +148,7 @@
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "url_client": "https://www.mercantilandina.com.ar/",
     "slug": "mercantil-andina"
   },
   {
@@ -156,6 +165,7 @@
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "url_client": "https://www.denso.com/ar/es/",
     "slug": "denso"
   },
   {
@@ -172,6 +182,7 @@
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "url_client": "https://www.viditec.com/",
     "slug": "viditec"
   },
   {
@@ -188,6 +199,7 @@
     "meta_title": "",
     "meta_description": "",
     "meta_keywords": [],
+    "url_client": "https://terratua.com.ar/",
     "slug": "terratua"
   }
 ]

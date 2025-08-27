@@ -28,272 +28,353 @@
     ],
     "branding": [
         {
-        "id": 0,
-        "question": "¿Qué incluye un servicio de branding?",
-        "content": "Incluye la creación de la identidad visual (logo, tipografías, colores), el tono de comunicación y la estrategia que define cómo tu marca se presenta y conecta con el público."
+            "id": 0,
+            "question": "¿Qué incluye un servicio de branding?",
+            "content": "Incluye la creación de la identidad visual (logo, tipografías, colores), el tono de comunicación y la estrategia que define cómo tu marca se presenta y conecta con el público."
         },
         {
-        "id": 1,
-        "question": "¿Por qué es importante invertir en branding?",
-        "content": "Porque una marca sólida genera confianza, recordación y diferencia frente a la competencia."
+            "id": 1,
+            "question": "¿Por qué es importante invertir en branding?",
+            "content": "Porque una marca sólida genera confianza, recordación y diferencia frente a la competencia."
         },
         {
-        "id": 2,
-        "question": "¿Se puede renovar una marca sin perder su esencia?",
-        "content": "Sí, el rebranding permite modernizar la identidad respetando los valores originales."
+            "id": 2,
+            "question": "¿Se puede renovar una marca sin perder su esencia?",
+            "content": "Sí, el rebranding permite modernizar la identidad respetando los valores originales."
         },
         {
-        "id": 3,
-        "question": "¿Qué diferencia hay entre branding y diseño gráfico?",
-        "content": "El diseño gráfico es una parte del branding, pero el branding también incluye estrategia, personalidad y comunicación."
+            "id": 3,
+            "question": "¿Qué diferencia hay entre branding y diseño gráfico?",
+            "content": "El diseño gráfico es una parte del branding, pero el branding también incluye estrategia, personalidad y comunicación."
         },
         {
-        "id": 4,
-        "question": "¿En cuánto tiempo se puede desarrollar un branding completo?",
-        "content": "Depende del alcance, pero suele llevar entre 4 y 8 semanas para lograr un trabajo integral."
+            "id": 4,
+            "question": "¿En cuánto tiempo se puede desarrollar un branding completo?",
+            "content": "Depende del alcance, pero suele llevar entre 4 y 8 semanas para lograr un trabajo integral."
         }
     ],
     "desarrollo": [
         {
-        "id": 0,
-        "question": "¿Qué diferencia hay entre una web institucional, catálogo, e-commerce o landing?",
-        "content": "Cada tipo de web responde a un objetivo distinto: la institucional muestra quién sos, el catálogo presenta productos, el e-commerce vende online y la landing convierte visitas en acciones específicas."
+            "id": 0,
+            "question": "¿Qué diferencia hay entre una web institucional, catálogo, e-commerce o landing?",
+            "content": "Cada tipo de web responde a un objetivo distinto: la institucional muestra quién sos, el catálogo presenta productos, el e-commerce vende online y la landing convierte visitas en acciones específicas."
         },
         {
-        "id": 1,
-        "question": "¿Qué beneficios tiene tener una web profesional?",
-        "content": "Mejora tu presencia digital, genera confianza y te ayuda a captar más clientes."
+            "id": 1,
+            "question": "¿Qué beneficios tiene tener una web profesional?",
+            "content": "Mejora tu presencia digital, genera confianza y te ayuda a captar más clientes."
         },
         {
-        "id": 2,
-        "question": "¿Se puede actualizar la web una vez publicada?",
-        "content": "Sí, se pueden hacer cambios en diseño, contenidos y funcionalidades en cualquier momento."
+            "id": 2,
+            "question": "¿Se puede actualizar la web una vez publicada?",
+            "content": "Sí, se pueden hacer cambios en diseño, contenidos y funcionalidades en cualquier momento."
         },
         {
-        "id": 3,
-        "question": "¿Qué significa que una web sea responsive?",
-        "content": "Que se adapta a todos los dispositivos (celulares, tablets y computadoras)."
+            "id": 3,
+            "question": "¿Qué significa que una web sea responsive?",
+            "content": "Que se adapta a todos los dispositivos (celulares, tablets y computadoras)."
         },
         {
-        "id": 4,
-        "question": "¿Es necesario tener dominio y hosting propio?",
-        "content": "Sí, son la base para que tu web esté online y funcione correctamente."
+            "id": 4,
+            "question": "¿Es necesario tener dominio y hosting propio?",
+            "content": "Sí, son la base para que tu web esté online y funcione correctamente."
         }
     ],
     "landing": [
         {
-        "id": 0,
-        "question": "¿Qué es una landing page?",
-        "content": "Es una página diseñada para un objetivo específico, como captar leads o vender un producto puntual."
+            "id": 0,
+            "question": "¿Qué es una landing page?",
+            "content": "Es una página diseñada para un objetivo específico, como captar leads o vender un producto puntual."
         },
         {
-        "id": 1,
-        "question": "¿Para qué campañas conviene usar una landing?",
-        "content": "Para promociones, lanzamientos o campañas de anuncios que buscan conversiones rápidas."
+            "id": 1,
+            "question": "¿Para qué campañas conviene usar una landing?",
+            "content": "Para promociones, lanzamientos o campañas de anuncios que buscan conversiones rápidas."
         },
         {
-        "id": 2,
-        "question": "¿Cuánto tiempo lleva desarrollar una landing?",
-        "content": "Generalmente entre 1 y 2 semanas, según la complejidad."
+            "id": 2,
+            "question": "¿Cuánto tiempo lleva desarrollar una landing?",
+            "content": "Generalmente entre 1 y 2 semanas, según la complejidad."
         },
         {
-        "id": 3,
-        "question": "¿Se puede medir el rendimiento de la landing?",
-        "content": "Sí, se integra con herramientas como Google Analytics y Meta Pixel para trackear resultados."
+            "id": 3,
+            "question": "¿Se puede medir el rendimiento de la landing?",
+            "content": "Sí, se integra con herramientas como Google Analytics y Meta Pixel para trackear resultados."
         },
         {
-        "id": 4,
-        "question": "¿Una landing puede estar dentro de mi web principal?",
-        "content": "Sí, puede estar integrada o en un dominio independiente."
+            "id": 4,
+            "question": "¿Una landing puede estar dentro de mi web principal?",
+            "content": "Sí, puede estar integrada o en un dominio independiente."
         }
     ],
     "catalogo": [
         {
-        "id": 0,
-        "question": "¿Qué es una web catálogo?",
-        "content": "Es una página donde se muestran productos o servicios sin venta directa online."
+            "id": 0,
+            "question": "¿Qué es una web catálogo?",
+            "content": "Es una página donde se muestran productos o servicios sin venta directa online."
         },
         {
-        "id": 1,
-        "question": "¿En qué se diferencia del e-commerce?",
-        "content": "En el catálogo solo se muestran productos, mientras que el e-commerce permite comprarlos directamente."
+            "id": 1,
+            "question": "¿En qué se diferencia del e-commerce?",
+            "content": "En el catálogo solo se muestran productos, mientras que el e-commerce permite comprarlos directamente."
         },
         {
-        "id": 2,
-        "question": "¿Cuándo conviene tener una web catálogo?",
-        "content": "Cuando tu empresa quiere mostrar variedad de productos, pero las ventas se cierran por otros canales."
+            "id": 2,
+            "question": "¿Cuándo conviene tener una web catálogo?",
+            "content": "Cuando tu empresa quiere mostrar variedad de productos, pero las ventas se cierran por otros canales."
         },
         {
-        "id": 3,
-        "question": "¿Se pueden actualizar los productos del catálogo?",
-        "content": "Sí, podés cargar y modificar productos fácilmente."
+            "id": 3,
+            "question": "¿Se pueden actualizar los productos del catálogo?",
+            "content": "Sí, podés cargar y modificar productos fácilmente."
         },
         {
-        "id": 4,
-        "question": "¿Es posible integrar un catálogo con redes sociales?",
-        "content": "Sí, se pueden vincular con Instagram Shopping o Facebook Catalog."
+            "id": 4,
+            "question": "¿Es posible integrar un catálogo con redes sociales?",
+            "content": "Sí, se pueden vincular con Instagram Shopping o Facebook Catalog."
         }
     ],
     "ecommerce": [
         {
-        "id": 0,
-        "question": "¿Qué diferencia hay entre un e-commerce propio y vender en un marketplace?",
-        "content": "El e-commerce propio te da control total sobre tu marca, base de clientes y margen de ganancia."
+            "id": 0,
+            "question": "¿Qué diferencia hay entre un e-commerce propio y vender en un marketplace?",
+            "content": "El e-commerce propio te da control total sobre tu marca, base de clientes y margen de ganancia."
         },
         {
-        "id": 1,
-        "question": "¿Qué métodos de pago se pueden integrar?",
-        "content": "Se pueden sumar tarjetas de crédito, débito, transferencias y billeteras virtuales."
+            "id": 1,
+            "question": "¿Qué métodos de pago se pueden integrar?",
+            "content": "Se pueden sumar tarjetas de crédito, débito, transferencias y billeteras virtuales."
         },
         {
-        "id": 2,
-        "question": "¿Se puede gestionar el stock desde la web?",
-        "content": "Sí, el sistema actualiza inventario automáticamente."
+            "id": 2,
+            "question": "¿Se puede gestionar el stock desde la web?",
+            "content": "Sí, el sistema actualiza inventario automáticamente."
         },
         {
-        "id": 3,
-        "question": "¿Es seguro un e-commerce?",
-        "content": "Sí, se implementan certificados SSL y métodos de pago seguros."
+            "id": 3,
+            "question": "¿Es seguro un e-commerce?",
+            "content": "Sí, se implementan certificados SSL y métodos de pago seguros."
         },
         {
-        "id": 4,
-        "question": "¿Se puede vender en todo el país con un e-commerce?",
-        "content": "Sí, integrando envíos con plataformas logísticas."
+            "id": 4,
+            "question": "¿Se puede vender en todo el país con un e-commerce?",
+            "content": "Sí, integrando envíos con plataformas logísticas."
         }
     ],
     "elearning": [
         {
-        "id": 0,
-        "question": "¿Qué es una plataforma e-learning?",
-        "content": "Es un sitio web donde se dictan cursos online con contenidos organizados."
+            "id": 0,
+            "question": "¿Qué es una plataforma e-learning?",
+            "content": "Es un sitio web donde se dictan cursos online con contenidos organizados."
         },
         {
-        "id": 1,
-        "question": "¿Qué funcionalidades incluye una web e-learning?",
-        "content": "Registro de alumnos, carga de clases, foros, evaluaciones y certificaciones."
+            "id": 1,
+            "question": "¿Qué funcionalidades incluye una web e-learning?",
+            "content": "Registro de alumnos, carga de clases, foros, evaluaciones y certificaciones."
         },
         {
-        "id": 2,
-        "question": "¿Se pueden ofrecer cursos gratuitos y pagos?",
-        "content": "Sí, se puede configurar según la estrategia de tu institución."
+            "id": 2,
+            "question": "¿Se pueden ofrecer cursos gratuitos y pagos?",
+            "content": "Sí, se puede configurar según la estrategia de tu institución."
         },
         {
-        "id": 3,
-        "question": "¿Se puede acceder desde celular?",
-        "content": "Sí, son plataformas responsive y accesibles desde cualquier dispositivo."
+            "id": 3,
+            "question": "¿Se puede acceder desde celular?",
+            "content": "Sí, son plataformas responsive y accesibles desde cualquier dispositivo."
         },
         {
-        "id": 4,
-        "question": "¿Es posible integrar pasarelas de pago?",
-        "content": "Sí, se pueden cobrar cursos online con distintas formas de pago."
+            "id": 4,
+            "question": "¿Es posible integrar pasarelas de pago?",
+            "content": "Sí, se pueden cobrar cursos online con distintas formas de pago."
         }
     ],
     "institucional": [
         {
-        "id": 0,
-        "question": "¿Qué es una web institucional?",
-        "content": "Es la página oficial de una empresa, organización o profesional."
+            "id": 0,
+            "question": "¿Qué es una web institucional?",
+            "content": "Es la página oficial de una empresa, organización o profesional."
         },
         {
-        "id": 1,
-        "question": "¿Qué debe incluir una web institucional?",
-        "content": "Información sobre la empresa, servicios, historia, valores y formas de contacto."
+            "id": 1,
+            "question": "¿Qué debe incluir una web institucional?",
+            "content": "Información sobre la empresa, servicios, historia, valores y formas de contacto."
         },
         {
-        "id": 2,
-        "question": "¿Por qué es importante una web institucional?",
-        "content": "Genera confianza y es la carta de presentación digital de tu marca."
+            "id": 2,
+            "question": "¿Por qué es importante una web institucional?",
+            "content": "Genera confianza y es la carta de presentación digital de tu marca."
         },
         {
-        "id": 3,
-        "question": "¿Se puede agregar un blog a la web institucional?",
-        "content": "Sí, para compartir novedades y mejorar el SEO."
+            "id": 3,
+            "question": "¿Se puede agregar un blog a la web institucional?",
+            "content": "Sí, para compartir novedades y mejorar el SEO."
         },
         {
-        "id": 4,
-        "question": "¿Cuánto tiempo lleva desarrollar una web institucional?",
-        "content": "Generalmente entre 4 y 6 semanas."
+            "id": 4,
+            "question": "¿Cuánto tiempo lleva desarrollar una web institucional?",
+            "content": "Generalmente entre 4 y 6 semanas."
         }
     ],
-    "social": [
+    "interaccion": [
         {
-        "id": 0,
-        "question": "¿Por qué es importante tener una estrategia en redes sociales?",
-        "content": "Porque ayuda a generar comunidad, posicionar tu marca y captar clientes."
+            "id": 0,
+            "question": "¿Qué incluye el servicio de Interacción?",
+            "content": "Gestión de redes sociales con contenido estratégico y automatización de marketing para atraer y fidelizar clientes sin esfuerzo extra."
         },
         {
-        "id": 1,
-        "question": "¿Qué diferencia hay entre manejo de redes y publicar por cuenta propia?",
-        "content": "Una estrategia profesional define objetivos, segmentación y contenidos pensados para resultados."
+            "id": 1,
+            "question": "¿Cómo ayudan las redes sociales a mi negocio?",
+            "content": "Aumentan tu visibilidad, generan comunidad y mejoran la confianza en tu marca, convirtiendo seguidores en clientes potenciales."
         },
         {
-        "id": 2,
-        "question": "¿Se pueden medir los resultados en redes?",
-        "content": "Sí, con métricas como alcance, interacciones y conversiones."
+            "id": 2,
+            "question": "¿Qué es la automatización de marketing?",
+            "content": "Es usar herramientas que envían mensajes y hacen seguimientos de forma automática, ahorrando tiempo y atrayendo contactos interesados."
         },
         {
-        "id": 3,
-        "question": "¿Qué redes sociales convienen para mi negocio?",
-        "content": "Depende del público objetivo: Instagram, Facebook, LinkedIn, TikTok u otras."
+            "id": 3,
+            "question": "¿Por qué conviene delegar en una agencia?",
+            "content": "Porque un equipo especializado aporta experiencia y tecnología avanzada, logrando mejores resultados sin que inviertas tiempo adicional."
         },
         {
-        "id": 4,
-        "question": "¿Qué tipo de contenidos se pueden generar?",
-        "content": "Posts, reels, historias, campañas interactivas, concursos y más."
+            "id": 4,
+            "question": "¿Qué beneficios concretos obtengo?",
+            "content": "Más visibilidad, clientes potenciales y fidelización, con campañas optimizadas que mejoran tu inversión y reducen tareas repetitivas."
         }
     ],
     "metaads": [
         {
-        "id": 0,
-        "question": "¿Qué son los Meta Ads?",
-        "content": "Son anuncios pagos en Facebook e Instagram."
+            "id": 0,
+            "question": "¿Qué son los Meta Ads?",
+            "content": "Son anuncios pagos en Facebook e Instagram."
         },
         {
-        "id": 1,
-        "question": "¿Por qué invertir en Meta Ads?",
-        "content": "Porque permiten llegar a audiencias específicas y obtener resultados medibles."
+            "id": 1,
+            "question": "¿Por qué invertir en Meta Ads?",
+            "content": "Porque permiten llegar a audiencias específicas y obtener resultados medibles."
         },
         {
-        "id": 2,
-        "question": "¿Con qué presupuesto se puede empezar?",
-        "content": "Se puede comenzar con inversiones bajas y escalar según los resultados."
+            "id": 2,
+            "question": "¿Con qué presupuesto se puede empezar?",
+            "content": "Se puede comenzar con inversiones bajas y escalar según los resultados."
         },
         {
-        "id": 3,
-        "question": "¿Cómo se mide el éxito de una campaña en Meta Ads?",
-        "content": "Con métricas como clics, conversiones, alcance y retorno de inversión (ROI)."
+            "id": 3,
+            "question": "¿Cómo se mide el éxito de una campaña en Meta Ads?",
+            "content": "Con métricas como clics, conversiones, alcance y retorno de inversión (ROI)."
         },
         {
-        "id": 4,
-        "question": "¿Se pueden segmentar los anuncios?",
-        "content": "Sí, por ubicación, intereses, comportamientos, edades, etc."
+            "id": 4,
+            "question": "¿Se pueden segmentar los anuncios?",
+            "content": "Sí, por ubicación, intereses, comportamientos, edades, etc."
         }
     ],
     "googleads": [
         {
-        "id": 0,
-        "question": "¿Qué es Google Ads?",
-        "content": "Es la plataforma publicitaria de Google para aparecer en búsquedas y sitios asociados."
+            "id": 0,
+            "question": "¿Qué es Google Ads?",
+            "content": "Es la plataforma publicitaria de Google para aparecer en búsquedas y sitios asociados."
         },
         {
-        "id": 1,
-        "question": "¿Cuál es la diferencia entre Google Ads y Meta Ads?",
-        "content": "Google Ads capta la demanda activa (usuarios que buscan), mientras que Meta Ads genera demanda a través de audiencias."
+            "id": 1,
+            "question": "¿Cuál es la diferencia entre Google Ads y Meta Ads?",
+            "content": "Google Ads capta la demanda activa (usuarios que buscan), mientras que Meta Ads genera demanda a través de audiencias."
         },
         {
-        "id": 2,
-        "question": "¿Cuáles son los tipos de campañas en Google Ads?",
-        "content": "De búsqueda, display, shopping, video (YouTube) y campañas locales."
+            "id": 2,
+            "question": "¿Cuáles son los tipos de campañas en Google Ads?",
+            "content": "De búsqueda, display, shopping, video (YouTube) y campañas locales."
         },
         {
-        "id": 3,
-        "question": "¿Cómo se mide el rendimiento en Google Ads?",
-        "content": "Con métricas como clics, conversiones, CTR y costo por adquisición (CPA)."
+            "id": 3,
+            "question": "¿Cómo se mide el rendimiento en Google Ads?",
+            "content": "Con métricas como clics, conversiones, CTR y costo por adquisición (CPA)."
         },
         {
-        "id": 4,
-        "question": "¿Necesito una web para usar Google Ads?",
-        "content": "Sí, porque los anuncios redirigen a un sitio web o landing page."
+            "id": 4,
+            "question": "¿Necesito una web para usar Google Ads?",
+            "content": "Sí, porque los anuncios redirigen a un sitio web o landing page."
+        }
+    ],
+    "estrategia": [
+        {
+            "id": 0,
+            "question": "¿Qué diferencia hay entre Google Ads, Meta Ads y TikTok Ads?",
+            "content": "Cada plataforma llega a audiencias distintas: Google Ads capta búsquedas activas (quien ya busca tu producto), Meta Ads conecta con comunidades en Facebook e Instagram y TikTok Ads llega a públicos jóvenes con contenidos creativos y virales."
+        },
+        {
+            "id": 1,
+            "question": "¿Cómo sé en qué plataforma invertir?",
+            "content": "Depende de tu objetivo y tu público. Si buscás ventas inmediatas, Google Ads es ideal; si querés generar comunidad y recordación de marca, Meta y TikTok son más efectivos. Lo mejor es combinar."
+        },
+        {
+            "id": 2,
+            "question": "¿Por qué necesito planificación (planning) antes de invertir en publicidad?",
+            "content": "El planning asegura que tu inversión tenga un rumbo claro: se definen objetivos, audiencias, mensajes y canales antes de gastar. Sin planificación, la inversión se diluye."
+        },
+        {
+            "id": 3,
+            "question": "¿Qué métricas son clave para saber si una campaña funciona?",
+            "content": "CTR (clics), CPA (costo por adquisición), ROAS (retorno por inversión en anuncios) y tasa de conversión. Son indicadores simples que muestran si el presupuesto se traduce en resultados."
+        },
+        {
+            "id": 4,
+            "question": " ¿Qué hace Data & Analytics por mi negocio?",
+            "content": "Transforma datos en decisiones. No se trata solo de medir, sino de interpretar qué funciona y qué no para ajustar campañas en tiempo real."
+        }
+    ],
+    "creatividad": [
+        {
+            "id": 0,
+            "question": "¿Qué es el branding y por qué es importante?",
+            "content": "El branding es la identidad de tu marca: logo, colores, tipografías y tono de comunicación. Es lo que hace que tu negocio sea reconocible y confiable."
+        },
+        {
+            "id": 1,
+            "question": "¿Cada cuánto conviene revisar o actualizar la identidad visual?",
+            "content": "Se recomienda revisarla cada 3 a 5 años, o cuando cambian los objetivos de la empresa. A veces basta con pequeños ajustes, otras requiere un rebranding completo."
+        },
+        {
+            "id": 2,
+            "question": "¿Qué tipo de piezas incluye el soporte multimedia?",
+            "content": "Desde banners, videos cortos, animaciones y presentaciones, hasta material para redes sociales o campañas digitales. Todo lo necesario para mantener comunicación fresca."
+        },
+        {
+            "id": 3,
+            "question": "¿Por qué es importante el contenido visual?",
+            "content": "Porque capta más rápido la atención que el texto. Una imagen o video atractivo puede hacer la diferencia entre que un cliente se detenga o siga de largo."
+        },
+        {
+            "id": 4,
+            "question": "¿Puedo tener diseño a demanda para campañas puntuales?",
+            "content": "Sí, con soporte creativo disponés de horas de diseño y multimedia que se adaptan a las necesidades de cada campaña, sin depender de grandes procesos."
+        }
+    ],
+    "soporte": [
+        {
+            "id": 0,
+            "question": "¿Qué significa WordPress continuo?",
+            "content": "Es el mantenimiento permanente de tu sitio: actualizaciones, copias de seguridad, optimización de rendimiento y seguridad para que siempre esté online y protegido."
+        },
+        {
+            "id": 1,
+            "question": "¿Qué errores comunes se evitan con soporte técnico?",
+            "content": "Pantallas en blanco, errores de base de datos, plugins incompatibles o caídas inesperadas. Con soporte estos problemas se detectan y corrigen antes de que afecten al usuario."
+        },
+        {
+            "id": 2,
+            "question": "¿Por qué es importante la monitorización 24/7?",
+            "content": "Porque garantiza que tu web esté vigilada todo el tiempo. Si ocurre una caída o ataque, el sistema lo detecta y se soluciona rápido, evitando pérdidas de visitas o ventas."
+        },
+        {
+            "id": 3,
+            "question": "¿Qué diferencia hay entre soporte web y soporte creativo?",
+            "content": "El soporte web cubre la parte técnica (funcionamiento del sitio). El soporte creativo se enfoca en piezas de diseño y multimedia para que la comunicación visual de la marca se mantenga actualizada."
+        },
+        {
+            "id": 4,
+            "question": "¿Qué beneficios tiene contratar soporte en lugar de resolver problemas solo cuando aparecen?",
+            "content": "La prevención ahorra tiempo, dinero y dolores de cabeza. Con soporte, tu web está cuidada y tu comunicación siempre activa, sin frenar tu negocio."
         }
     ]
 }

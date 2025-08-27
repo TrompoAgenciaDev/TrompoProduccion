@@ -30,7 +30,7 @@
     "image": "./assets/testimonialImg/vero-menta.png"
   },
   {
-    "author": "María Elisa de la Fuente Núñez - Gesevi",
+    "author": "María Elisa de la Fuente Núñez - CEO en GESEVI S.A.S- Investigación Científica Forense",
     "rating": 5,
     "text": "En un rubro tan especializado como el nuestro, comunicar con seriedad y generar confianza es clave. Desde nuestros inicios, Trompo ha sido el aliado perfecto para lograrlo. Entendieron a la perfección nuestras necesidades, desarrollando un sitio web institucional impecable y gestionando nuestras campañas de Google Ads de forma estratégica. Gracias a ellos, conectamos eficazmente con nuestro público. Valoramos enormemente su excelente comunicación y su predisposición constante para ayudarnos a alcanzar cada objetivo.",
     "image": "./assets/testimonialImg/eli-gesevi.png"
@@ -40,5 +40,23 @@
     "rating": 5,
     "text": "Somos una empresa con 70 de años de trayectoria. Trompo nos acompañó en la creación de nuestra primera página web. y en la actualización de su diseño con el paso del tiempo. Nos acompañan con social media. Destacamos la predisposición y poder contar siempre con su apoyo cuando lo necesitamos",
     "image": "./assets/testimonialImg/cris-raulito.png"
+  },
+  {
+    "author": "Grupo Antun",
+    "rating": 5,
+    "text": "Su equipo combinó estrategia, creatividad y ejecución para potenciar nuestra presencia digital. Se adaptaron a nuestras necesidades, propusieron soluciones efectivas y mantuvieron una comunicación clara en todo momento. Gracias a su trabajo, logramos resultados concretos en visibilidad, y crecimiento. Trompo es un gran aliado estratégico. Maximiliano Leiva Gerente de Marketing",
+    "image": "./assets/testimonialImg/maxi-antun.png"
+  },
+  {
+    "author": "Loreley Baravalle - Córdoba Nutrición, Descenso de peso",
+    "rating": 5,
+    "text": "Estoy muy conforme con todo el equipo de Trompo!! Fueron muy profesionales desde el primer momento Rápidos y muy humanos!! Me ayudaron a cambiar mi web y hacerla más comercial! Los recomiendo!!",
+    "image": "./assets/testimonialImg/a.png"
+  },
+  {
+    "author": "Priscila Bousquet, Responsable de Marketing Viditec Fluke Argentina",
+    "rating": 5,
+    "text": "En Fluke Argentina necesitábamos un aliado estratégico para implementar nuestra estrategia de marketing nacional. Trompo acompañó con social media, automatizaciones, desarrollo web y campañas Ads, logrando claridad en la comunicación y alcance en audiencias clave. El equipo mostró visión y orden en cada paso. Lo recomendamos como partner estratégico en marketing Digital",
+    "image": "./assets/testimonialImg/priscila-fluke.png"
   }
 ]
