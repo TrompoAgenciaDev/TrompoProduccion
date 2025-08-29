@@ -6,7 +6,7 @@
       "short_description": "",
       "long_description": "",
       "featured_image": "assets/desarrollo/ranko.webp",
-      "vertical_image": "assets/desarrollo/vertical/ranko.webp",
+      "vertical_image": "/assets/desarrollo/vertical/ranko.webp",
       "gallery": [],
       "category": ["3d", "desarrollo web"],
       "tags": [],
