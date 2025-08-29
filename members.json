@@ -4,62 +4,62 @@
     "name": "Esteban Raparo",
     "position": "Digital Manager",
     "portfolio": "Estudió Publicidad, Marketing, posee un posgrado de marketing estratégico en la universidad de Belgrano. Tiene una especialización de marketing digital en compra programática de medios en la universidad del Salvador formo parte del primer programa de Google Partners en 2011 y experiencia en mas de 100 proyectos digitales, en pequeñas, medianas y grandes empresa, nacionales, multinacionales y gobiernos.",
-    "featured_image": "/assets/members/esteban.png"
+    "featured_image": "/assets/members/esteban.webp"
   },
   {
     "id": 1,
     "name": "Mariela Wulff",
     "position": "Responsable del área administrativa.",
     "portfolio": "Experiencia en Gestión efectiva de recursos, relación con clientes y desarrollo de estrategias de satisfacción. Formación  en Turismo y Educación.",
-    "featured_image": "/assets/members/web.png"
+    "featured_image": "/assets/members/web.webp"
   },
   {
     "id": 2,
     "name": "Mauro Garralda",
     "position": "Proyect Leader - Back End",
     "portfolio": "Analista de sistema de la Universidad Siglo 21. Lider de desarrollo de la agencia. Cofuonder de Cobax empresa de desarrollo de Software, tiene experiencia en más de 50 desarrollos a medida en multiples plataformas. Es programador Sr PHP, .Net y Administración de bases de datos MySQL, SQLServer y servidores Asure.",
-    "featured_image": "/assets/members/web.png"
+    "featured_image": "/assets/members/web.webp"
   },
   {
     "id": 3,
     "name": "Joel Pallero",
     "position": "Front End Developer",
     "portfolio": "Técnico Superior en Desarrollo de Software, dedicado a la rama de desarrollo web. Especializado en desarrollo web WordPress y programación en frameworks modernos como React.js + Motion. Joel ha liderado más de 50 proyectos web, combinando creatividad, experiencia en UX/UI y desarrollo ágil. Su dominio de herramientas como Figma, GitHub y Visual Studio Code, junto con su capacidad para implementar soluciones tecnológicas escalables, lo posicionan como un referente en la creación de experiencias digitales de alto impacto.",
-    "featured_image": "/assets/members/joel.png"
+    "featured_image": "/assets/members/joel.webp"
   },
   {
     "id": 4,
     "name": "Micaela Labrone",
     "position": "Social media",
     "portfolio": "Social Media Manager de la agencia. Estudió Marketing y Publicidad Digital en la Universidad Siglo 21. Tiene experiencia en agencias y gestiona las principales cuentas de Social Media de la agencia. Especialista en estrategias de contenido, análisis de buyer persona, Benchmark y dirección de arte, con foco en estrategia, estética y resultados.",
-    "featured_image": "/assets/members/mica.png"
+    "featured_image": "/assets/members/mica.webp"
   },
   {
     "id": 5,
     "name": "Alejo Pellegrino",
     "position": "Multimedia",
     "portfolio": "Licenciado en Cine y Artes Audiovisuales por la Universidad Nacional de Córdoba. Es editor y realizador audiovisual con experiencia en la postproducción de cortometrajes, videoclips, eventos en vivo, shows musicales y contenido para redes sociales. Se especializa en montaje, diseño sonoro y motion graphics.",
-    "featured_image": "/assets/members/alejo.png"
+    "featured_image": "/assets/members/alejo.webp"
   },
   {
     "id": 6,
     "name": "Melisa Chanampa",
     "position": "Diseñadora Gráfica",
     "portfolio": "Licenciada en Diseño Gráfico por la Universidad Blas Pascal. Cuenta con más de cinco años de experiencia en agencias de publicidad y como profesional freelance, desarrollándose en áreas como branding, diseño editorial y digital, redes sociales, diseño web, campañas de marketing, edición fotográfica y preparación de originales para impresión.",
-    "featured_image": "/assets/members/meli.png"
+    "featured_image": "/assets/members/meli.webp"
   },
   {
     "id": 7,
     "name": "Alfonsina Bonacossa",
     "position": "Diseñadora Gráfica",
     "portfolio": "Recibida de Técnica Universitaria en Diseño Gráfico en la Universidad Provincial de Córdoba. Cuenta con formación académica sólida y actualizada, su perfil combina creatividad, manejo técnico y una visión estratégica aplicada al diseño, aportando soluciones efectivas en áreas como social media, diseño web, campañas de marketing, y presentaciones digitales.",
-    "featured_image": "/assets/members/alfon.png"
+    "featured_image": "/assets/members/alfon.webp"
   },
   {
     "id": 8,
     "name": "Ivan Varela",
     "position": "Diseñador Gráfico",
     "portfolio": "Estudió Diseño Gráfico Publicitario en La Metro. Cuenta con experiencia en proyectos de comunicación visual y desarrollo creativo, explorando diversos estilos y herramientas para marcas, emprendimientos y trabajos colectivos. Se especializa en branding, diseño web y diseño digital.",
-    "featured_image": "/assets/members/ivan.png"
+    "featured_image": "/assets/members/ivan.webp"
   }
 ]
