@@ -57,27 +57,27 @@
         {
             "id": 0,
             "question": "¿Qué diferencia hay entre una web institucional, catálogo, e-commerce o landing?",
-            "content": "Cada tipo de web responde a un objetivo distinto: la institucional muestra quién sos, el catálogo presenta productos, el e-commerce vende online y la landing convierte visitas en acciones específicas."
+            "content": "<p>Cada tipo de sitio responde a un objetivo específico:</p><ul><li><strong>Web institucional:</strong> transmite identidad, trayectoria y confianza de marca.</li><li><strong>Catálogo online:</strong> presenta un portafolio de productos o servicios, sin venta directa.</li><li><strong>E-commerce:</strong> integra carrito, medios de pago y logística para vender en línea.</li><li><strong>Landing page:</strong> página enfocada en una sola acción (registro, descarga, venta puntual), ideal para campañas publicitarias.</li></ul><p><b>La elección depende de tu estrategia comercial y del rol digital que tu web debe cumplir.</b></p>"
         },
         {
             "id": 1,
             "question": "¿Qué beneficios tiene tener una web profesional?",
-            "content": "Mejora tu presencia digital, genera confianza y te ayuda a captar más clientes."
+            "content": "<p>Una web profesional es mucho más que “estar online”:</p><ul><li><strong>Refuerza</strong> la credibilidad de tu marca con diseño y contenidos alineados.</li><li><strong>Mejora</strong> la experiencia de usuario, lo que aumenta la conversión.</li><li><strong>Permite</strong> medir y optimizar resultados con herramientas de analítica.</li><li><strong>Escala</strong> en el tiempo, integrando nuevas funcionalidades según la evolución de tu negocio.</li></ul>"
         },
         {
             "id": 2,
             "question": "¿Se puede actualizar la web una vez publicada?",
-            "content": "Sí, se pueden hacer cambios en diseño, contenidos y funcionalidades en cualquier momento."
+            "content": "<p>Sí, y es fundamental hacerlo. Un sitio no es un proyecto que termina al publicarse:</p><ul><li><strong>Se pueden modificar</strong> textos, imágenes y secciones en cualquier momento.</li><li><strong>Se agregan</strong> funcionalidades según las necesidades del negocio (formularios, pasarelas de pago, chatbots, etc.).</li><li><strong>Se optimiza</strong> constantemente para mejorar velocidad, SEO y seguridad.</li></ul><p><b>Una web profesional es un activo vivo que crece junto con tu empresa.</b></p>"
         },
         {
             "id": 3,
             "question": "¿Qué significa que una web sea responsive?",
-            "content": "Que se adapta a todos los dispositivos (celulares, tablets y computadoras)."
+            "content": "<p>Que el sitio se adapta de forma automática a cualquier dispositivo: celular, tablet o computadora.</p><p>Esto no solo <strong>mejora la experiencia del usuario</strong>, sino que además es un <strong>requisito para el posicionamiento en Google</strong>. Hoy, más del 70% de las visitas provienen de móviles: no ser responsive es perder oportunidades.</p>"
         },
         {
             "id": 4,
             "question": "¿Es necesario tener dominio y hosting propio?",
-            "content": "Sí, son la base para que tu web esté online y funcione correctamente."
+            "content": "<p>Sí. El dominio es tu dirección digital (ej: tumarca.com), y el hosting es el espacio donde tu sitio vive y desde donde se carga. Tenerlos propios garantiza:</p><ul><li><strong>Propiedad real</strong> de tu web (no depender de terceros).</li><li><strong>Estabilidad y seguridad</strong> del sitio.</li><li><strong>Escalabilidad</strong>, pudiendo crecer en tráfico y funcionalidades sin problemas.</li></ul>"
         }
     ],
     "landing": [
@@ -375,6 +375,33 @@
             "id": 4,
             "question": "¿Qué beneficios tiene contratar soporte en lugar de resolver problemas solo cuando aparecen?",
             "content": "La prevención ahorra tiempo, dinero y dolores de cabeza. Con soporte, tu web está cuidada y tu comunicación siempre activa, sin frenar tu negocio."
+        }
+    ],
+    "primavera": [
+        {
+            "id": 0,
+            "question": "¿Qué es una landing page?",
+            "content": "Es una página diseñada para un objetivo específico, como captar leads o vender un producto puntual."
+        },
+        {
+            "id": 1,
+            "question": "¿Para qué campañas conviene usar una landing?",
+            "content": " Para promociones, lanzamientos o campañas de anuncios que buscan conversiones rápidas."
+        },
+        {
+            "id": 2,
+            "question": "¿Cuánto tiempo lleva desarrollar una landing?",
+            "content": " Generalmente entre 1 y 2 semanas, según la complejidad."
+        },
+        {
+            "id": 3,
+            "question": "¿Se puede medir el rendimiento de la landing?",
+            "content": "Sí, se integra con herramientas como Google Analytics y Meta Pixel para trackear resultados."
+        },
+        {
+            "id": 4,
+            "question": "¿Una landing puede estar dentro de mi web principal?",
+            "content": "Sí, puede estar integrada o en un dominio independiente."
         }
     ]
 }

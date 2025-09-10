@@ -1,0 +1,200 @@
+/* Variable font */
+@font-face {
+  font-family: "BricolageGrotesque-Variable";
+  src: url("/assets/BricolageGrotesque-VariableFont_opsz,wdth,wght/assetsttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+/* Condensed */
+@font-face {
+  font-family: "BricolageGrotesque-Condensed-ExtraLight";
+  src: url("/assets/BricolageGrotesque_Condensed-ExtraLight/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-Condensed-Light";
+  src: url("/assets/BricolageGrotesque_Condensed-Light/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-Condensed-Regular";
+  src: url("/assets/BricolageGrotesque_Condensed-Regular/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-Condensed-Medium";
+  src: url("/assets/BricolageGrotesque_Condensed-Medium/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-Condensed-SemiBold";
+  src: url("/assets/BricolageGrotesque_Condensed-SemiBold/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-Condensed-Bold";
+  src: url("/assets/BricolageGrotesque_Condensed-Bold/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-Condensed-ExtraBold";
+  src: url("/assets/BricolageGrotesque_Condensed-ExtraBold/assetsttf") format("truetype");
+}
+
+/* SemiCondensed */
+@font-face {
+  font-family: "BricolageGrotesque-SemiCondensed-ExtraLight";
+  src: url("/assets/BricolageGrotesque_SemiCondensed-ExtraLight/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-SemiCondensed-Light";
+  src: url("/assets/BricolageGrotesque_SemiCondensed-Light/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-SemiCondensed-Regular";
+  src: url("/assets/BricolageGrotesque_SemiCondensed-Regular/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-SemiCondensed-Medium";
+  src: url("/assets/BricolageGrotesque_SemiCondensed-Medium/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-SemiCondensed-SemiBold";
+  src: url("/assets/BricolageGrotesque_SemiCondensed-SemiBold/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-SemiCondensed-Bold";
+  src: url("/assets/BricolageGrotesque_SemiCondensed-Bold/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-SemiCondensed-ExtraBold";
+  src: url("/assets/BricolageGrotesque_SemiCondensed-ExtraBold/assetsttf") format("truetype");
+}
+
+/* Core weights */
+@font-face {
+  font-family: "BricolageGrotesque-ExtraLight";
+  src: url("/assets/BricolageGrotesque-ExtraLight/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-Light";
+  src: url("/assets/BricolageGrotesque-Light/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-Regular";
+  src: url("/assets/BricolageGrotesque-Regular/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-Medium";
+  src: url("/assets/BricolageGrotesque-Medium/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-SemiBold";
+  src: url("/assets/BricolageGrotesque-SemiBold/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-Bold";
+  src: url("/assets/BricolageGrotesque-Bold/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-ExtraBold";
+  src: url("/assets/BricolageGrotesque-ExtraBold/assetsttf") format("truetype");
+}
+
+/* Versiones 24pt, 36pt, 48pt, 72pt (Condensed & SemiCondensed) */
+/* Ejemplo de mapeo para 24pt, repetir para 36pt/48pt/72pt */
+
+@font-face {
+  font-family: "BricolageGrotesque-24pt-Condensed-Light";
+  src: url("/assets/BricolageGrotesque_24pt_Condensed-Light/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-24pt-Condensed-Regular";
+  src: url("/assets/BricolageGrotesque_24pt_Condensed-Regular/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-24pt-Condensed-Medium";
+  src: url("/assets/BricolageGrotesque_24pt_Condensed-Medium/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-24pt-Condensed-SemiBold";
+  src: url("/assets/BricolageGrotesque_24pt_Condensed-SemiBold/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-24pt-Condensed-Bold";
+  src: url("/assets/BricolageGrotesque_24pt_Condensed-Bold/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-24pt-Condensed-ExtraBold";
+  src: url("/assets/BricolageGrotesque_24pt_Condensed-ExtraBold/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-24pt-SemiCondensed-ExtraLight";
+  src: url("/assets/BricolageGrotesque_24pt_SemiCondensed-ExtraLight/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-24pt-SemiCondensed-Regular";
+  src: url("/assets/BricolageGrotesque_24pt_SemiCondensed-Regular/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-24pt-SemiCondensed-Medium";
+  src: url("/assets/BricolageGrotesque_24pt_SemiCondensed-Medium/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-24pt-SemiCondensed-SemiBold";
+  src: url("/assets/BricolageGrotesque_24pt_SemiCondensed-SemiBold/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-24pt-SemiCondensed-Bold";
+  src: url("/assets/BricolageGrotesque_24pt_SemiCondensed-Bold/assetsttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BricolageGrotesque-24pt-SemiCondensed-ExtraBold";
+  src: url("/assets/BricolageGrotesque_24pt_SemiCondensed-ExtraBold/assetsttf") format("truetype");
+}
+
+
+/* ===========================
+   Superior Title - Bold
+   =========================== */
+@font-face {
+  font-family: "superior-title";
+  src: url("/assets/SuperiorTitle-Bold/assetsttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "superior-title";
+  src: url("/assets/SuperiorTitle-BoldItalic/assetsttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+.condensed {
+  font-family: "BricolageGrotesque-SemiBold", sans-serif;
+}

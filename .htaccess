@@ -1,6 +1,6 @@
 RewriteEngine On
-RewriteBase /
+RewriteBase /2025/
 RewriteRule ^index\.html$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.html [L]
+RewriteRule . /2025/index.html [L]
