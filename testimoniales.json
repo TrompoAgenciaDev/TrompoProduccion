@@ -1,0 +1,52 @@
+[
+  {
+    "author": "Guadalupe Caceres - Marketing Volvo Trucks & Buses Argentina.",
+    "text": "✨ Trabajar con Trompo es una experiencia súper positiva. Un equipo creativo y flexible que nos ayuda a crear campañas impactantes, mejorar nuestra presencia web, en redes y generar contenidos que conectan de verdad. ¡Siempre con ideas frescas y gran visión!",
+    "image": "./assets/testimonialImg/guada-volvo.webp"
+  },
+  {
+    "author": "Florencia Bustos UX Lead | UX-PM | UI | Graphic Designer.",
+    "text": "✨ Con Trompo Agencia llevamos adelante el rediseño web de Mercantil Andina. Cuidaron cada detalle, respetaron los tiempos y lograron una ejecución impecable. Incluso desarrollaron un plugin propio para gestionar cotizaciones. ¡Un equipo comprometido y profesional!",
+    "image": "./assets/testimonialImg/flor.webp"
+  },
+  {
+    "author": "Agostina Paskvan, Ranko Cannon Argentina.",
+    "text": "✨ El equipo de Trompo es súper proactivo. Responden de inmediato, priorizan lo urgente y siempre buscan soluciones rápidas y efectivas. ¡Un gran partner que acompaña y cumple!",
+    "image": "./assets/testimonialImg/agos-ranko.webp"
+  },
+  {
+    "author": "Verónica Pallavicini, Menta Production Agency.",
+    "text": "✨ Trabajar con Trompo en nuestra web fue una experiencia de diez: creativos, distintos y con foco total en la experiencia del usuario. El feedback de mis clientes siempre es positivo, lo que habla de su calidad y compromiso. ¡Los recomiendo 100%!",
+    "image": "./assets/testimonialImg/vero-menta.webp"
+  },
+  {
+    "author": "Elisa de la Fuente Núñez - CEO en GESEVI.",
+    "text": "✨ En un rubro tan especializado como el nuestro, Trompo fue el aliado perfecto. Desarrollaron un sitio institucional impecable y gestionaron nuestras campañas en Google Ads de forma estratégica. Su comunicación y predisposición marcaron la diferencia. ¡Un partner clave!",
+    "image": "./assets/testimonialImg/eli-gesevi.webp"
+  },
+  {
+    "author": "Maximiliano Leiva Gerente de Marketing Grupo Antun.",
+    "text": "✨ Con Trompo potenciamos nuestra presencia digital. Un equipo que combina estrategia, creatividad y ejecución, siempre con soluciones efectivas y comunicación clara. Los resultados en visibilidad y crecimiento hablan por sí solos. ¡Un gran aliado estratégico!",
+    "image": "./assets/testimonialImg/maxi-antun.webp"
+  },
+  {
+    "author": "Priscila Bousquet, Responsable de Marketing Viditec Fluke Argentina.",
+    "text": "✨ En Fluke Argentina encontramos en Trompo el aliado estratégico que necesitábamos. Con social media, automatizaciones, desarrollo web y campañas Ads logramos mayor claridad en la comunicación y alcance en audiencias clave. ¡Un partner en marketing digital que recomendamos sin dudar!",
+    "image": "./assets/testimonialImg/priscila-fluke.webp"
+  },
+  {
+    "author": "Gabriel Caligaris, SQL Amoblamientos",
+    "text": "✨ Trompo Agencia nos acompañó en nuestro proceso inicial de marketing digital y transformación. Desarrollaron nuestra página web, gestionaron campañas en Google y manejaron nuestras redes sociales, siempre con una mirada profesional y cercana. Durante varios años fueron nuestro aliado estratégico en el mundo digital, y los recomendamos sin dudarlo.",
+    "image": "./assets/testimonialImg/gabriel-sql.webp"
+  },
+  {
+    "author": "Loreley Baravalle - Córdoba Nutrición, Descenso de peso",
+    "text": "✨ Estoy muy conforme con todo el equipo de Trompo!! Fueron muy profesionales desde el primer momento Rápidos y muy humanos!! Me ayudaron a cambiar mi web y hacerla más comercial! Los recomiendo!!",
+    "image": "./assets/testimonialImg/lore-nutricion.webp"
+  },
+  {
+    "author": "Cristian Ulloque - Socio / Director Ejecutivo - Productos Raulito",
+    "text": "✨ Somos una empresa con 70 de años de trayectoria. Trompo nos acompañó en la creación de nuestra primera página web. y en la actualización de su diseño con el paso del tiempo. Nos acompañan con social media. Destacamos la predisposición y poder contar siempre con su apoyo cuando lo necesitamos",
+    "image": "./assets/testimonialImg/cris-raulito.webp"
+  }
+]

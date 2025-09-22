@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "title": "estrategia",
+        "subtitle": "inteligente",
+        "content": "Publicidad con dirección, optimización y resultados.",
+        "service": "/estrategia"
+    },
+    {
+        "id": 1,
+        "title": "creatividad",
+        "subtitle": "que conecta",
+        "content": "Branding, diseño y multimedia para marcas con propósito.",
+        "service": "/creatividad"
+    },
+    {
+        "id": 2,
+        "title": "interacción",
+        "subtitle": "que transforma",
+        "content": "Estrategias que conectan. Contenidos que provocan respuesta.",
+        "service": "/interaccion"
+    },
+    {
+        "id": 3,
+        "title": "desarrollo",
+        "subtitle": "que evoluciona",
+        "content": "Sitios que no se detienen, se adaptan y crecen",
+        "service": "/desarrollo"
+    },
+    {
+        "id": 4,
+        "title": "soporte",
+        "subtitle": "continuo",
+        "content": "Soporte técnico y creativo para que tu marca no se detenga.",
+        "service": "/soporte"
+    }
+]
