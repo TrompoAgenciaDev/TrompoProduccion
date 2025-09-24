@@ -16,9 +16,17 @@ if (file_exists($envPath)) {
     }
 }
 
-// Variables desde .env
 $brevoApiKey = getenv('BREVO_API_KEY') ?: '';
-$listId      = getenv('BREVO_LIST_ID') ?: '';
+
+// === MAPEO DE LISTAS SEGÚN LOCATION ===
+$listMap = [
+    "home"        => getenv('BREVO_LIST_HOME'),
+    "desarrollo"  => getenv('BREVO_LIST_DESARROLLO'),
+    "soporte"     => getenv('BREVO_LIST_SOPORTE'),
+    "interaccion" => getenv('BREVO_LIST_INTERACCION'),
+    "estrategia"  => getenv('BREVO_LIST_ESTRATEGIA'),
+    "creatividad" => getenv('BREVO_LIST_CREATIVIDAD'),
+];
 
 // === CAPTURAR DATOS DEL POST ===
 $nombre    = $_POST['NOMBRE'] ?? '';
@@ -28,6 +36,7 @@ $empresa   = $_POST['EMPRESA'] ?? '';
 $smsCode   = $_POST['SMS_COUNTRY_CODE'] ?? '';
 $smsNum    = $_POST['SMS'] ?? '';
 $consulta  = $_POST['CONSULTA'] ?? '';
+$location  = $_POST['LOCATION'] ?? 'home';
 
 // === Validar email requerido por Brevo ===
 if (empty($email)) {
@@ -37,6 +46,9 @@ if (empty($email)) {
     ], JSON_UNESCAPED_UNICODE);
     exit;
 }
+
+// === Determinar listId por location ===
+$listId = $listMap[$location] ?? $listMap['home'];
 
 // === Preparar payload para Brevo ===
 $payload = [
@@ -48,12 +60,11 @@ $payload = [
         "EMPRESA"   => $empresa,
         "SMS"       => $smsCode . $smsNum,
         "WHATSAPP"  => $smsCode . $smsNum,
-        "CONSULTA"  => $consulta
+        "CONSULTA"  => $consulta,
+        "ORIGEN"    => $location, // opcional, para rastrear desde Brevo
     ],
     "listIds" => [(int)$listId]
 ];
-
-// print_r($payload);
 
 // === Enviar a Brevo ===
 $ch = curl_init("https://api.brevo.com/v3/contacts");
@@ -66,9 +77,6 @@ curl_setopt($ch, CURLOPT_POST, true);
 curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($payload));
 
 $response = curl_exec($ch);
-// echo "resultado: ";
-// print_r($response);
-// echo 'fin resultado';
 
 if ($response === false) {
     echo json_encode([
@@ -82,10 +90,8 @@ if ($response === false) {
 $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
 curl_close($ch);
 
-// === Decodificar la respuesta de Brevo para inspección ===
 $decoded = json_decode($response, true);
 
-// Si no se puede decodificar, devolver crudo
 if ($decoded === null) {
     echo json_encode([
         "success" => false,
@@ -95,7 +101,6 @@ if ($decoded === null) {
     exit;
 }
 
-// Si Brevo responde 2xx pero incluye datos de contacto válidos
 if ($httpCode >= 200 && $httpCode < 300) {
     if (isset($decoded['id']) || isset($decoded['email'])) {
         echo json_encode([
