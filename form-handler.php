@@ -6,7 +6,7 @@ error_reporting(E_ALL);
 header('Content-Type: application/json; charset=utf-8');
 
 // === CARGAR .ENV MANUALMENTE ===
-$envPath = __DIR__ . '/../../.env';
+$envPath = __DIR__ . '/../.env';
 if (file_exists($envPath)) {
     $vars = parse_ini_file($envPath, false, INI_SCANNER_RAW);
     if ($vars !== false) {
