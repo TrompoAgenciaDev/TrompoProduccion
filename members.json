@@ -2,14 +2,14 @@
   {
     "id": 0,
     "name": "Esteban Raparo",
-    "position": "Digital Manager",
+    "position": "Estratega Digital",
     "portfolio": "100+ proyectos, formó parte del primer programa Google Partners (2012). Honestidad brutal y cero humo. Traduce objetivos a planes y planes a resultados. Le gustan los dashboards claros, las estrategias meticulosas y las implementaciones contundentes.",
     "featured_image": "/assets/members/esteban.webp"
   },
   {
     "id": 1,
     "name": "Mariela Wulff",
-    "position": "Responsable del área administrativa.",
+    "position": "Operaciones y Finanzas",
     "portfolio": "Procesos claros, números prolijos y clientes tranquilos. mirada versátil. Ordena circuitos, estandariza cobros/pagos y cuida la relación con proveedores y clientes.",
     "featured_image": "/assets/members/mari.webp"
   },
@@ -17,7 +17,7 @@
     "id": 2,
     "name": "Mauro Garralda",
     "position": "Proyect Leader - Back End",
-    "portfolio": "Analista de Sistemas. 50+ desarrollos a medida. Sr. en PHP/.NET, bases (MySQL, SQL Server) y servidores en Azure. Reduce riesgos, Simplifica, estandariza procesos.",
+    "portfolio": "Analista de Sistemas. 50+ desarrollos a medida. Sr. en PHP/.NET, bases (MySQL, SQL Server) y servidores en Azure. Reduce riesgos, resuelve problemas, simplifica, estandariza procesos.",
     "featured_image": "/assets/members/mauro.webp"
   },
   {
@@ -30,35 +30,35 @@
   {
     "id": 4,
     "name": "Micaela Labrone",
-    "position": "Social media",
+    "position": "Operaciones y Finanzas",
     "portfolio": "Graduada en Marketing y Publicidad Digital. Gestionó cuentas clave con estrategia, contenido y arte digital que mueven la aguja. Buyer persona, benchmark y calendarios. Le interesan comunidades sanas y métricas claras.",
     "featured_image": "/assets/members/mica.webp"
   },
   {
     "id": 5,
     "name": "Alejo Pellegrino",
-    "position": "Multimedia",
+    "position": "Multimedia & Motion",
     "portfolio": "Lic. en Cine y Artes Audiovisuales (UNC). Editor/realizador con rodaje en cortos, videoclips, vivo, shows y social. Montaje, diseño sonoro y motion graphics con narrativa y precisión técnica.",
     "featured_image": "/assets/members/alejo.webp"
   },
   {
     "id": 6,
     "name": "Melisa Chanampa",
-    "position": "Diseñadora Gráfica",
+    "position": "Head de Diseño",
     "portfolio": "Lic. en Diseño (UBP). +5 años entre agencia y freelance. Branding, editorial, digital, social, web, campañas… Diseña sistemas que ordenan, emocionan y venden. Si no aclara la marca o confunde al usuario, no se aprueba.",
     "featured_image": "/assets/members/meli.webp"
   },
   {
     "id": 7,
     "name": "Alfonsina Bonacossa",
-    "position": "Diseñadora Gráfica",
+    "position": "Diseñadora Creativa Digital",
     "portfolio": "Téc. Univ. en Diseño. Creatividad + técnica + visión estratégica. Experiencia en social, UX, campañas y presentaciones. Construye sistemas visuales consistentes alineados a objetivos.",
     "featured_image": "/assets/members/alfon.webp"
   },
   {
     "id": 8,
     "name": "Ivan Varela",
-    "position": "Diseñador Gráfico",
+    "position": "Diseñador Creativo Digital",
     "portfolio": "Diseñador Gráfico Publicitario. Comunicación visual y desarrollo creativo para marcas, emprendimientos y equipos. Branding, social media y diseño digital con criterio y versatilidad.",
     "featured_image": "/assets/members/ivan.webp"
   }

@@ -1,33 +1,61 @@
-# --- React SPA routing ---
+# ================================
+# React SPA routing
+# ================================
 RewriteEngine On
 RewriteBase /
+
+# Evita bucles al servir index.html
 RewriteRule ^index\.html$ - [L]
+
+# Si el archivo o directorio no existe, redirige todo a index.html
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.html [L]
 
-# --- Correct video MIME types ---
+# ================================
+# MIME types correctos para video y media
+# ================================
 AddType video/mp4 .mp4
 AddType video/webm .webm
 AddType video/ogg .ogv
 AddType video/quicktime .mov
+AddType audio/mpeg .mp3
+AddType audio/ogg .ogg
+AddType font/woff2 .woff2
+AddType font/woff .woff
 
-# --- Required by Safari for video playback ---
+# ================================
+# Headers necesarios para Safari y streaming
+# ================================
 <IfModule mod_headers.c>
-  Header set Accept-Ranges "bytes"
-  Header set Access-Control-Allow-Origin "*"
-  Header set Cache-Control "public, max-age=31536000"
+  # Habilita la reproducción por rango de bytes (streaming parcial)
+  Header always set Accept-Ranges "bytes"
+
+  # Evita errores CORS en Safari al cargar videos o fuentes
+  Header always set Access-Control-Allow-Origin "*"
+
+  # Fuerza el caché para assets (videos, fuentes, imágenes)
+  <FilesMatch "\.(mp4|webm|ogv|mov|jpg|jpeg|png|gif|svg|woff|woff2)$">
+    Header always set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  # Asegura que los vídeos se entreguen con el tipo MIME correcto
+  <FilesMatch "\.(mp4|webm|ogv|mov)$">
+    Header always set Content-Type "video/mp4"
+  </FilesMatch>
 </IfModule>
 
-# --- Optional (for chunked transfer) ---
+# ================================
+# Transferencia comprimida opcional
+# ================================
 <IfModule mod_mime.c>
   AddEncoding gzip .gz
 </IfModule>
 
-
-RewriteEngine On
-RewriteBase /
-RewriteRule ^index\.html$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.html [L]
+# ================================
+# Seguridad básica (opcional, no interfiere con React)
+# ================================
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
