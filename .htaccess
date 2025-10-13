@@ -1,7 +1,29 @@
+# --- React SPA routing ---
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
+
+# --- Correct video MIME types ---
 AddType video/mp4 .mp4
 AddType video/webm .webm
 AddType video/ogg .ogv
-AddType audio/mp3 .mp3
+AddType video/quicktime .mov
+
+# --- Required by Safari for video playback ---
+<IfModule mod_headers.c>
+  Header set Accept-Ranges "bytes"
+  Header set Access-Control-Allow-Origin "*"
+  Header set Cache-Control "public, max-age=31536000"
+</IfModule>
+
+# --- Optional (for chunked transfer) ---
+<IfModule mod_mime.c>
+  AddEncoding gzip .gz
+</IfModule>
+
 
 RewriteEngine On
 RewriteBase /

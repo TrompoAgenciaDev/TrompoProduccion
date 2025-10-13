@@ -1,0 +1,16 @@
+<IfModule mod_mime.c>
+  AddType video/mp4 .mp4
+  AddType video/webm .webm
+  AddType video/ogg .ogv
+</IfModule>
+
+# Evitar que PHP o el CMS gestione estos archivos
+<FilesMatch "\.(mp4|webm|ogv)$">
+  ForceType video/mp4
+  Header set Content-Type "video/mp4"
+</FilesMatch>
+
+# Habilitar carga por rango (Safari la necesita para streaming)
+<IfModule mod_headers.c>
+  Header set Accept-Ranges "bytes"
+</IfModule>
