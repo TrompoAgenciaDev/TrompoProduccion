@@ -1,0 +1,1 @@
+import{g as t,r as s,M as e,l as n}from"./index.sk-CVLHI.js";function a(a){const o=t(()=>n(a)),{isStatic:c}=s.useContext(e);if(c){const[,t]=s.useState(a);s.useEffect(()=>o.on("change",t),[])}return o}export{a as u};

@@ -1,0 +1,1 @@
+import{j as o}from"./index.sk-CVLHI.js";import{H as r}from"./Hero.DTMQ-Ngl.js";import"./video-js.Xo2Rxy9-.js";/* empty css             */function s(){return o.jsx(o.Fragment,{children:o.jsx(r,{location:"servicios"})})}export{s as default};
